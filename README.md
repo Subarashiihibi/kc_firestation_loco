@@ -22,7 +22,7 @@ in Seattle. Other areas are not included for users to query. The search function
 with Geocoder controls. 
 
 # Screenshot
-![]()
+![Screenshot of Final Web Application]("https://subarashiihibi.github.io/kc_firestation_loco/img/screenshot.png")
 
 # Main Functions
 ## Location query using Geocoder
@@ -66,7 +66,7 @@ might cause problems because urban area has been constantly changing so some of 
 with no records in the data from King County GIS data portal. Before making decisions upon the small application please think twice and refer to official information on 
 location of fire stations because this is not an official web application created by Seattle Government.
 
-The framework of the web application is largely inspired by the Store Locator in the tutorial of Mapbox GL JS. The web application may still have a lot of place to improve.
+The framework of the web application is largely inspired by the Store Locator in the tutorial of Mapbox GL JS. The web application may still have a lot of places to improve.
 If you find something important in the texts and the web application, you could freely leave your advice or comments at my GitHub repos. I might add more functionalities 
 into this small application in the future, such as adding routes and finding the closest fire station to your queried result. 
 
