@@ -22,7 +22,8 @@ in Seattle. Other areas are not included for users to query. The search function
 with Geocoder controls. 
 
 # Screenshot
-![Screenshot of Final Web Application]("https://subarashiihibi.github.io/kc_firestation_loco/img/screenshot.png")
+![Screenshot of Fire Station Locator](https://user-images.githubusercontent.com/80044018/145708299-88de7cdf-ea57-4a40-a8b8-57ddf62b4514.png)
+
 
 # Main Functions
 ## Location query using Geocoder
