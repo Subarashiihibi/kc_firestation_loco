@@ -1,5 +1,5 @@
 # Final Project: Seattle Fire Station Locator
-Application URL: https://subarashiihibi.github.io/kc_firestation_loco/index.html
+Application URL: https://subarashiihibi.github.io/kc_firestation_loco/index.html  
 Repo URL: https://subarashiihibi.github.io/kc_firestation_loco/
 
 # Description:
