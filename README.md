@@ -1,4 +1,5 @@
 # Final Project: Seattle Fire Station Locator
+## By Steven Chen
 Application URL: https://subarashiihibi.github.io/kc_firestation_loco/index.html  
 Repo URL: https://subarashiihibi.github.io/kc_firestation_loco/
 
