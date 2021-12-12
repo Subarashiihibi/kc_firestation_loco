@@ -1,6 +1,6 @@
 # Final Project: Seattle Fire Station Locator
-Application URL:
-Repo URL: 
+Application URL: https://subarashiihibi.github.io/kc_firestation_loco/index.html
+Repo URL: https://subarashiihibi.github.io/kc_firestation_loco/
 
 # Description:
 As Seattle‘s weather condition, fire has long been an issue from long time ago in Seattle.
